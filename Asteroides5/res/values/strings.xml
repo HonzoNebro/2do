@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">T5 - Asteroides</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="Titulo">Asteroides</string>
+    <string name="Arrancar">Jugar</string>
+    <string name="Configuracion">Configurar</string>
+    <string name="Informacion">Acerca de</string>
+    <string name="Puntuar">Puntuaciones</string>
+    <string name="Apagar">Salir</string>
+
+</resources>
